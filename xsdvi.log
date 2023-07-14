@@ -1,0 +1,46 @@
+dez 02, 2022 8:24:01 AM xsdvi.XsdVi printUsage
+GRAVE: 
+USAGE:
+java -jar xsdvi.jar <input1.xsd> [<input2.xsd> [<input3.xsd> ...]] [style]
+  STYLE:
+    -embodyStyle                css style will be embodied in each svg file, this is default
+    -generateStyle <style.css>  new css file with specified name will be generated and used by svgs
+    -useStyle      <style.css>  external css file at specified url will be used by svgs
+
+dez 02, 2022 8:24:10 AM xsdvi.XsdVi printUsage
+GRAVE: 
+USAGE:
+java -jar xsdvi.jar <input1.xsd> [<input2.xsd> [<input3.xsd> ...]] [style]
+  STYLE:
+    -embodyStyle                css style will be embodied in each svg file, this is default
+    -generateStyle <style.css>  new css file with specified name will be generated and used by svgs
+    -useStyle      <style.css>  external css file at specified url will be used by svgs
+
+dez 02, 2022 8:24:17 AM xsdvi.XsdVi printUsage
+GRAVE: 
+USAGE:
+java -jar xsdvi.jar <input1.xsd> [<input2.xsd> [<input3.xsd> ...]] [style]
+  STYLE:
+    -embodyStyle                css style will be embodied in each svg file, this is default
+    -generateStyle <style.css>  new css file with specified name will be generated and used by svgs
+    -useStyle      <style.css>  external css file at specified url will be used by svgs
+
+dez 02, 2022 8:27:32 AM xsdvi.XsdVi printUsage
+GRAVE: 
+USAGE:
+java -jar xsdvi.jar <input1.xsd> [<input2.xsd> [<input3.xsd> ...]] [style]
+  STYLE:
+    -embodyStyle                css style will be embodied in each svg file, this is default
+    -generateStyle <style.css>  new css file with specified name will be generated and used by svgs
+    -useStyle      <style.css>  external css file at specified url will be used by svgs
+
+dez 02, 2022 8:29:39 AM xsdvi.XsdVi main
+INFORMA합ES: The style will be embodied
+dez 02, 2022 8:29:39 AM xsdvi.XsdVi main
+INFORMA합ES: Parsing lattes.xsd...
+dez 02, 2022 8:29:39 AM xsdvi.XsdVi main
+INFORMA합ES: Processing XML Schema model...
+dez 02, 2022 8:29:39 AM xsdvi.XsdVi main
+INFORMA합ES: Drawing SVG lattes.svg...
+dez 02, 2022 8:29:39 AM xsdvi.XsdVi main
+INFORMA합ES: Done.
